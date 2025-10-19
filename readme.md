@@ -1,6 +1,6 @@
 # 🎬 Custom Video Processing Model
 
-This repository contains code for a **custom video processing and analysis pipeline**, including dataset preprocessing, frame extraction from videos, and Grad-CAM visualization for model interpretability. The dataset used is **proprietary and created by the author**, so it is not included in this repository.
+This repository contains code for a **custom video processing and analysis pipeline**, including dataset preprocessing, frame extraction from videos, and Grad-CAM visualization for model interpretability. The dataset used is **proprietary and created by Soumik Deb Niloy**, so it is not included in this repository.
 
 ---
 
@@ -101,7 +101,7 @@ This table provides a **benchmark comparison** of the proposed model against sev
 
 | Name                     | Role                |
 | ------------------------ | ------------------ |
-| **Your Name**            | Author / Developer |
+| **Soumik Deb Niloy**            | Developer |
 
 ---
 
